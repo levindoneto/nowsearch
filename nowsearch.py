@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # coding: UTF-8
-# Trabalho CPD - NowSearch Spotify - 2015/1
+# NowSearch Spotify
 
 ''' Bibliotecas utilizadas '''
 import json                        #                         Utilizada para pegar os dados do tipo de arquivo utilizado.
