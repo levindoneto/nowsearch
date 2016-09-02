@@ -217,7 +217,7 @@ def menuPrincipal():
 	while opcao:
 		print("""
 		|**|**************************************************|**|
-        |**|                  NOWSEARCH                       |**|
+		|**|                  NOWSEARCH                       |**|
 		|**|**************************************************|**|
 		|**|        Organize-se por um melhor som!            |**|
 		|**|                                                  |**|
@@ -225,11 +225,11 @@ def menuPrincipal():
 		|**| (1) Listagem de musicas (ordem crescente)        |**|
 		|**| (2) Listagem de musicas (ordem decrescente)      |**|
 		|**| (3) Pesquisar por musica (prefixo)               |**|
-        |**| (4) Pesquisar por artista (prefixo)              |**|
-        |**| (5) Musicas mais bombadas                        |**|
-        |**| (6) Musicas menos bombadas                       |**|
-        |**| (7) Sair                                         |**|
-        |**|**************************************************|**|
+        	|**| (4) Pesquisar por artista (prefixo)              |**|
+        	|**| (5) Musicas mais bombadas                        |**|
+        	|**| (6) Musicas menos bombadas                       |**|
+        	|**| (7) Sair                                         |**|
+        	|**|**************************************************|**|
 		""")
 		opcao=str(raw_input("O que voce deseja? "))
 		if (opcao=="1"):
