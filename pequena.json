@@ -1,0 +1,371 @@
+{
+  "href" : "https://api.spotify.com/v1/users/12148919601/playlists/0r0uW2elVlf1nNTw4hXu9q/tracks?offset=0&limit=5",
+  "items" : [ {
+    "added_at" : "2015-06-19T15:47:15Z",
+    "added_by" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/12148919601"
+      },
+      "href" : "https://api.spotify.com/v1/users/12148919601",
+      "id" : "12148919601",
+      "type" : "user",
+      "uri" : "spotify:user:12148919601"
+    },
+    "is_local" : false,
+    "track" : {
+      "album" : {
+        "album_type" : "single",
+        "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "US", "UY" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0fY8ohIXG7dg8EFNR9TZfu"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0fY8ohIXG7dg8EFNR9TZfu",
+        "id" : "0fY8ohIXG7dg8EFNR9TZfu",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/db5a7db4703882f05d8ab377869f77e50dfd65cd",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/da1128e1a0d4254d4d38620200866e905e0a8b14",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/6c1f86166766fb1177ab9a07824ed12967598e2c",
+          "width" : 64
+        } ],
+        "name" : "Listen (Sub Antix Remix)",
+        "type" : "album",
+        "uri" : "spotify:album:0fY8ohIXG7dg8EFNR9TZfu"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1YYJxpOXYk1z1WtqdeLMkn",
+        "id" : "1YYJxpOXYk1z1WtqdeLMkn",
+        "name" : "Habstrakt",
+        "type" : "artist",
+        "uri" : "spotify:artist:1YYJxpOXYk1z1WtqdeLMkn"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "disc_number" : 1,
+      "duration_ms" : 227142,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "FR4GL1072205"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4KHsphytZr3ttrdmttdhxa"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4KHsphytZr3ttrdmttdhxa",
+      "id" : "4KHsphytZr3ttrdmttdhxa",
+      "name" : "Listen - Sub Antix Remix",
+      "popularity" : 36,
+      "preview_url" : "https://p.scdn.co/mp3-preview/51ee8fed81b15012e5c825109a845113670243d6",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:4KHsphytZr3ttrdmttdhxa"
+    }
+  }, {
+    "added_at" : "2015-06-19T22:13:53Z",
+    "added_by" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/12148919601"
+      },
+      "href" : "https://api.spotify.com/v1/users/12148919601",
+      "id" : "12148919601",
+      "type" : "user",
+      "uri" : "spotify:user:12148919601"
+    },
+    "is_local" : false,
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "UY" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7bdjtx1RTkWoSoOaIl7a8E",
+        "id" : "7bdjtx1RTkWoSoOaIl7a8E",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/8e8b2b920cc2649b6b16b0fbbe1d2a0692d5079f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/3a346966030382c88c2115f7b1d1022c20d155b3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/48e4fd673ca376c733c4fd473fadaf31fe640490",
+          "width" : 64
+        } ],
+        "name" : "Settle (Special Edition)",
+        "type" : "album",
+        "uri" : "spotify:album:7bdjtx1RTkWoSoOaIl7a8E"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6nS5roXSAGhTGr34W6n7Et",
+        "id" : "6nS5roXSAGhTGr34W6n7Et",
+        "name" : "Disclosure",
+        "type" : "artist",
+        "uri" : "spotify:artist:6nS5roXSAGhTGr34W6n7Et"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "UY" ],
+      "disc_number" : 1,
+      "duration_ms" : 330731,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBRTB1100105"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1V0WqF2X27RqpvXlqsIcYa"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1V0WqF2X27RqpvXlqsIcYa",
+      "id" : "1V0WqF2X27RqpvXlqsIcYa",
+      "name" : "What's In Your Head",
+      "popularity" : 50,
+      "preview_url" : "https://p.scdn.co/mp3-preview/585d2b9fbe696122ddb638b5fe03b07f767bd0da",
+      "track_number" : 16,
+      "type" : "track",
+      "uri" : "spotify:track:1V0WqF2X27RqpvXlqsIcYa"
+    }
+  }, {
+    "added_at" : "2015-06-20T18:35:00Z",
+    "added_by" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/12148919601"
+      },
+      "href" : "https://api.spotify.com/v1/users/12148919601",
+      "id" : "12148919601",
+      "type" : "user",
+      "uri" : "spotify:user:12148919601"
+    },
+    "is_local" : false,
+    "track" : {
+      "album" : {
+        "album_type" : "single",
+        "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "US", "UY" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5rm7qCWkQOuWvndVLQMHPm"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5rm7qCWkQOuWvndVLQMHPm",
+        "id" : "5rm7qCWkQOuWvndVLQMHPm",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/fc713b72b4c56c80661902d3ac238a231b9f7752",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/6f071b3f169d24f07bf8278bb46640606489b54d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/59ef98a4f58d73812e7a8f5ac6c59f47a9de1b59",
+          "width" : 64
+        } ],
+        "name" : "Vikings (Bixel Boys Remix)",
+        "type" : "album",
+        "uri" : "spotify:album:5rm7qCWkQOuWvndVLQMHPm"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/56coS2IZSVdhIlHyzR75mK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/56coS2IZSVdhIlHyzR75mK",
+        "id" : "56coS2IZSVdhIlHyzR75mK",
+        "name" : "Botnek",
+        "type" : "artist",
+        "uri" : "spotify:artist:56coS2IZSVdhIlHyzR75mK"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4YLQaW1UU3mrVetC8gNkg5",
+        "id" : "4YLQaW1UU3mrVetC8gNkg5",
+        "name" : "3LAU",
+        "type" : "artist",
+        "uri" : "spotify:artist:4YLQaW1UU3mrVetC8gNkg5"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "disc_number" : 1,
+      "duration_ms" : 299055,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USDM31400227"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2boP2x6akqm5TNaOZy0qA4"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2boP2x6akqm5TNaOZy0qA4",
+      "id" : "2boP2x6akqm5TNaOZy0qA4",
+      "name" : "Vikings - Bixel Boys Remix",
+      "popularity" : 38,
+      "preview_url" : "https://p.scdn.co/mp3-preview/0ddb9312c0bc894680df1cc15c315fec14d95c29",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:2boP2x6akqm5TNaOZy0qA4"
+    }
+  }, {
+    "added_at" : "2015-06-21T23:27:57Z",
+    "added_by" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/12148919601"
+      },
+      "href" : "https://api.spotify.com/v1/users/12148919601",
+      "id" : "12148919601",
+      "type" : "user",
+      "uri" : "spotify:user:12148919601"
+    },
+    "is_local" : false,
+    "track" : {
+      "album" : {
+        "album_type" : "single",
+        "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "UY" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1mTwar7FFPzw3uk3Wu2h2s"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1mTwar7FFPzw3uk3Wu2h2s",
+        "id" : "1mTwar7FFPzw3uk3Wu2h2s",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/1ed8a957e8a8a5f2fc87c4a220bbc3068736499c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/4145ac38637f942d8cc88cc454ec0b5e1eb81672",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/d4d273f70f001671151e65f5f37958865579d775",
+          "width" : 64
+        } ],
+        "name" : "Liberate",
+        "type" : "album",
+        "uri" : "spotify:album:1mTwar7FFPzw3uk3Wu2h2s"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5sm0jQ1mq0dusiLtDJ2b4R",
+        "id" : "5sm0jQ1mq0dusiLtDJ2b4R",
+        "name" : "Eric Prydz",
+        "type" : "artist",
+        "uri" : "spotify:artist:5sm0jQ1mq0dusiLtDJ2b4R"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "UY" ],
+      "disc_number" : 1,
+      "duration_ms" : 313388,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GB6CM1300088"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1hLcbNJewMOsvk1K4PUR0p"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1hLcbNJewMOsvk1K4PUR0p",
+      "id" : "1hLcbNJewMOsvk1K4PUR0p",
+      "name" : "Liberate",
+      "popularity" : 53,
+      "preview_url" : "https://p.scdn.co/mp3-preview/99789c359d7aedac6f2312d14a82cdc9b4a5e005",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:1hLcbNJewMOsvk1K4PUR0p"
+    }
+  }, {
+    "added_at" : "2015-06-21T23:32:53Z",
+    "added_by" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/12148919601"
+      },
+      "href" : "https://api.spotify.com/v1/users/12148919601",
+      "id" : "12148919601",
+      "type" : "user",
+      "uri" : "spotify:user:12148919601"
+    },
+    "is_local" : false,
+    "track" : {
+      "album" : {
+        "album_type" : "single",
+        "available_markets" : [ "AR", "AT", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "GR", "GT", "HN", "HU", "IT", "LT", "LU", "LV", "MT", "NI", "NL", "NO", "PA", "PE", "PL", "PT", "PY", "RO", "SE", "SI", "SK", "SV", "UY" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1SI0AMK6rb2J8S0Jazli9D"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1SI0AMK6rb2J8S0Jazli9D",
+        "id" : "1SI0AMK6rb2J8S0Jazli9D",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/6207c3f216b3caeb36be9854040930819c38cf8d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/5a6c8514a481afe89cbf4f37b13dde14e62ed616",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a77d19d2ac9e19d59da67952fcf78c24d94f3848",
+          "width" : 64
+        } ],
+        "name" : "Lean On (feat. DJ Snake)",
+        "type" : "album",
+        "uri" : "spotify:album:1SI0AMK6rb2J8S0Jazli9D"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/738wLrAtLtCtFOLvQBXOXp",
+        "id" : "738wLrAtLtCtFOLvQBXOXp",
+        "name" : "Major Lazer",
+        "type" : "artist",
+        "uri" : "spotify:artist:738wLrAtLtCtFOLvQBXOXp"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0bdfiayQAKewqEvaU6rXCv",
+        "id" : "0bdfiayQAKewqEvaU6rXCv",
+        "name" : "MØ",
+        "type" : "artist",
+        "uri" : "spotify:artist:0bdfiayQAKewqEvaU6rXCv"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/540vIaP2JwjQb9dm3aArA4",
+        "id" : "540vIaP2JwjQb9dm3aArA4",
+        "name" : "DJ Snake",
+        "type" : "artist",
+        "uri" : "spotify:artist:540vIaP2JwjQb9dm3aArA4"
+      } ],
+      "available_markets" : [ "AR", "AT", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "GR", "GT", "HN", "HU", "IT", "LT", "LU", "LV", "MT", "NI", "NL", "NO", "PA", "PE", "PL", "PT", "PY", "RO", "SE", "SI", "SK", "SV", "UY" ],
+      "disc_number" : 1,
+      "duration_ms" : 176561,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMUY41500008"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0BF6mdNROWgYo3O3mNGrBc"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0BF6mdNROWgYo3O3mNGrBc",
+      "id" : "0BF6mdNROWgYo3O3mNGrBc",
+      "name" : "Lean On (feat. DJ Snake)",
+      "popularity" : 87,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2b47460173fc63605f778f2822023c4a2b0f273d",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:0BF6mdNROWgYo3O3mNGrBc"
+    }
+  } ],
+  "limit" : 5,
+  "next" : "https://api.spotify.com/v1/users/12148919601/playlists/0r0uW2elVlf1nNTw4hXu9q/tracks?offset=5&limit=5",
+  "offset" : 0,
+  "previous" : null,
+  "total" : 91
+}
